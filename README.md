@@ -1,4 +1,4 @@
-# ReviewsCategorization
+# Reviews Categorization
 The purpose of this project is to  develop a system for filtering and categorizing movie reviews. A dataset of IMBD movie reviews with polarity labelling was used to build a model for classifying positive and negative reviews.
 
 ## To Run
